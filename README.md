@@ -1,11 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luís Água Rosada</h1>
-<h3 align="center">A passionate frontend developer from Angola</h3>
 
-- 🔭 I’m currently working on [help-gama-SUSA](https://github.com/iamrosada/help-gama)
-
-- 🌱 I’m currently learning **testing with cypress**
-
-- 💬 Ask me about **react, vue, graphql,sass**
 
 - 📫 How to reach me **luisrosada@mail.ru**
 
